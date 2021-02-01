@@ -1,5 +1,5 @@
 # 2020-Travelers-Modeling-Competition
-#### Collaborated with
+#### Collaborated with Broderick Prows @bprows
 ------
 
 ### Project Description
