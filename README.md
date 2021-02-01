@@ -1,6 +1,6 @@
 # 2020-Travelers-Modeling-Competition
 #### Collaborated with
-***
+------
 
 ### Project Description
 You work for InsNova Auto Insurance Company, an Australian company. Your business partner, who is not familiar with statistics at all, would like you to create a rating plan based on the historical auto claim data. Your business partner is concerned about segmentation as well as competitiveness, as there are several other competitors in the market.
