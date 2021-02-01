@@ -9,7 +9,7 @@ Link to the competition: https://www.kaggle.com/c/2020-modeling-competition/over
 
 
 ### Method
-We did research on models that are popular in the insurance industry, and finally decided to use the TDboost in R to fit a Gradient Tree-Boosted Tweedie Compound Poisson model. Our team is selected as one of the winning teams based on the model performance and the presentation on business findings. 
+We did research on models that are popular in the insurance industry, and finally decided to use the [TDboost](https://cran.r-project.org/web/packages/TDboost/TDboost.pdf) in R to fit a Gradient Tree-Boosted Tweedie Compound Poisson model. Our team is selected as one of the winning teams based on the model performance and the presentation on business findings. 
 
-[embed]https://cran.r-project.org/web/packages/TDboost/TDboost.pdf[/embed]
+
 
